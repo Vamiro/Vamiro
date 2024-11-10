@@ -1,6 +1,6 @@
 ## 👋 Hi there
 ### 🌱 Also my projects:
-- https://github.com/Gorynych1337/LestaGameJam
+- [Paul is lava](https://github.com/Gorynych1337/LestaGameJam) (Unity game)
 <!--
 **Vamiro/Vamiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
